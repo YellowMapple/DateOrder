@@ -1,6 +1,6 @@
 # DateOrder
 参与秒杀活动判断
-```
+```ruby
 package newpractice.domain;
 
 import java.text.ParseException;
@@ -32,4 +32,4 @@ public class Main {
         System.out.println("所有订单全部完成,欢迎您的下次使用");
     }
 }
-```ruby
+```
